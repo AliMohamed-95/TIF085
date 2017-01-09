@@ -1,5 +1,6 @@
 # Keep this root directory clean.
 *.*
 !.gitignore
-!readme.md
 !*.tex
+!*.pdf
+
